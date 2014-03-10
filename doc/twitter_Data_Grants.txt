@@ -54,8 +54,8 @@ Research Category *
 Social and Behavial Science
  
 Social Data Experience *
-Yes, there is, for example Yamamoto has been proposed in about the method of calculating important historical figure is you have given them how much impact in a time-space(*1). 
-  In addition, we proposed in W2GIS for optimization method by using the same result, to automatically generate a tour focusing on the people and events of the time history(*2). The study was awarded the best paper at S2GIS 2011.
+Yes, there is, for example Yamamoto has been proposed in about the method of calculating important historical figure is you have given them how much impact in a time-space (*1). 
+  In addition, we proposed in W2GIS for optimization method by using the same result, to automatically generate a tour focusing on the people and events of the time history (*2). The study was awarded the best paper at S2GIS 2011.
 
 *1 
 Yuku Takahashi, Hiroaki Ohshima, Mitsuo Yamamoto, Hirotoshi Iwasaki, Satoshi Oyama, and Katsumi Tanaka. 2011. Evaluating significance of historical entities based on tempo-spatial impacts analysis using Wikipedia link structure. In Proceedings of the 22nd ACM conference on Hypertext and hypermedia (HT '11). ACM, New York, NY, USA, 83-92. 

@@ -26,7 +26,7 @@ Takahiro Kubo (TIS Inc.)
 Yohei Chiyoda (Komazawa University)
 Yuma Nakade (Komazawa University)
 Shota Suzuki (Komazawa University)
-Yoshikazu Fujikawa(XX)
+Yoshikazu Fujikawa (Yokohama Communication Design Lab)
 
 Proposal Title *
 #ツィート中の顔文字を利用した震災地域における心理情報の遷移把握

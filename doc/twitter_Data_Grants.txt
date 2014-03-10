@@ -30,23 +30,25 @@ Yoshikazu Fujikawa(XX)
 
 Proposal Title *
 #ツィート中の顔文字を利用した震災地域における心理情報の遷移把握
-Understanding transition grasp of psychological information in the earthquake area using emoticons in tweet
+Understanding transition grasp of psychological information in the earthquake area using emoticons in the tweet
 
 Proposal Description * 
 
 #本研究では、ツィート中の感情表現(主に顔文字)及び位置情報を利用して、・震災地域における人の心理状況の遷移を把握することを目的とします。
 
-The study is done to allow using the position information and emoticons tweet in to grasp the transition of the mental state of the person in the earthquake regions.
 
 #具体的には、3.11やTyphoon Haiyan等の過去の震災時等を対象として時空間上に顔文字を重畳させます。
 #また、震災地域で復興ボランティアに従事する人々へインタビューを実施することによって、以下の実験をします。
 #可視化結果と地元住民の心理状態等との相関が取れるか
 #復興支援すべき地域の推定に利用できるか否か
 
-More specifically, it is superimposed on the face character in a space as a target when the earthquake disaster of the past of Typhoon Haiyan or 3.11. 
+
+The study is done to allow using the tempo-spatial information and emoticons tweet in to grasp the transition of the mental state of the person in the earthquake regions.
+
+More specifically, it is superimposed on the emoticons in a space as a target when the earthquake disaster of the past of Typhoon Haiyan or 3.11. 
 In addition, by carrying out the interview to people engaged in reconstruction volunteer in the earthquake area, and then the following experiment. 
-Do take correlation with the psychological state of the local residents and visualization results 
-Whether or not available to estimate the area should be reconstruction assistance
+・Do take correlation with the psychological state of the local residents and visualization results
+・Whether or not available to estimate the area should be reconstruction assistance
  
 Research Category *
 Social and Behavial Science

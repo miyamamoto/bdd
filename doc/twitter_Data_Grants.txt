@@ -57,8 +57,11 @@ Funding *
 It does not fall under the direct funding. However, we are assisted by "Code for Residience" management team from (* 1) indirect support of research equipment or the like in the same activity. As for the advice to the research, we have received support from technical personnel such as researchers that make up the same management team.
  
 Technical Experience *
-はい、あります。
-例えばチームメンバーの藤川はXXLOD関係の開発経験について記載してください。
+For example, there is a development experience of Face recognition system for security system such as Yamamoto and Fujikawa. 
+Yamamoto also, there is a old map browsing system, and GIS application development experience of "Past and Present Walk" * 1 and the like. This application has been released version iphone and android version, until now has been about 80 million downloads. 
+
+* 1 https://play.google.com/store/apps/details?id=konjaku.bemap.android.jp 
+* 2 https://itunes.apple.com/jp/app/jin-xi-san-bu/id432292393?mt=8
 
 Filters: Start Time *
 2010/3/11 00:00
